@@ -5,5 +5,6 @@ package interfase;
 
      static void read(){
          System.out.println("Read printable");
+         System.out.println("Read printable");
      }
  }
